@@ -1,0 +1,52 @@
+20:47:14.598 [main] INFO  api.test.UserTests - ***********Creating User***********
+20:47:18.657 [main] INFO  api.test.UserTests - **********User Created**************
+20:47:18.685 [main] INFO  api.test.UserTests - **********Reading User**************
+20:47:20.150 [main] INFO  api.test.UserTests - **********User Info Displayed**************
+20:47:20.157 [main] INFO  api.test.UserTests - **********User Updating**************
+20:47:21.414 [main] INFO  api.test.UserTests - **********User Updated**************
+20:47:22.677 [main] INFO  api.test.UserTests - **********User Deleting**************
+20:47:24.008 [main] INFO  api.test.UserTests - **********User Deleted**************
+16:56:14.133 [main] DEBUG api.test.UserTests2 - debugging.....
+16:56:14.162 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+16:56:18.281 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+16:56:18.305 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+16:56:19.481 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+16:56:19.488 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+16:56:20.676 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+16:56:21.805 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+16:56:22.946 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+17:10:50.990 [main] DEBUG api.test.UserTests2 - debugging.....
+17:10:51.037 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+17:10:56.623 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+17:10:56.647 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+17:10:58.036 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+17:10:58.047 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+17:10:59.298 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+17:11:00.542 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+17:11:01.794 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+17:32:12.145 [main] DEBUG api.test.UserTests2 - debugging.....
+17:32:12.172 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+17:32:25.962 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+17:32:25.990 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+17:32:27.560 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+17:32:28.856 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+17:32:30.181 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+17:32:31.613 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+17:37:04.431 [main] DEBUG api.test.UserTests2 - debugging.....
+17:37:04.456 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+17:37:11.591 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+17:37:11.616 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+17:37:12.879 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+17:37:12.882 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+17:37:14.445 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+17:37:15.803 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+17:37:17.309 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
+18:17:36.895 [main] DEBUG api.test.UserTests2 - debugging.....
+18:17:36.913 [main] INFO  api.test.UserTests2 - ********** Creating user  ***************
+18:17:42.020 [main] INFO  api.test.UserTests2 - **********User is creatged  ***************
+18:17:42.037 [main] INFO  api.test.UserTests2 - ********** Reading User Info ***************
+18:17:43.275 [main] INFO  api.test.UserTests2 - **********User info  is displayed ***************
+18:17:43.278 [main] INFO  api.test.UserTests2 - ********** Updating User ***************
+18:17:44.481 [main] INFO  api.test.UserTests2 - ********** User updated ***************
+18:17:45.719 [main] INFO  api.test.UserTests2 - **********   Deleting User  ***************
+18:17:46.963 [main] INFO  api.test.UserTests2 - ********** User deleted ***************
